@@ -1,0 +1,49 @@
+table, th, td {
+    border: 2px solid;
+    border-color: #EE6C4D;
+    border-collapse: collapse;
+    width: 90%;
+    margin-top: 7%;
+    padding: 10px;
+    align-items: center;
+  }
+
+  #tableDetail.hiddenRow{
+    display: none;
+  }
+  .header {
+    padding: 20px;
+    text-align: right;
+    background: #293241;
+    color: white;
+    font-size: 30px;
+    border: none;
+  }
+
+  #button{
+    border: None;
+    cursor: pointer;
+}
+
+  #button:hover {
+    background-color: aliceblue;
+    color: black;
+  }
+
+  #Foundatiom.display{
+    display: none;
+  }
+
+  .hiddenRow{
+    border: 2px solid;
+    border-color: #EE6C4D;
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 4%;
+    padding: 10px;
+    align-items: center;
+  }
+
+  .Data{
+    display: hidden;
+  }
